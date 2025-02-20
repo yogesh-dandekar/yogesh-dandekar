@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Yogesh Dandekar. I am learning Data Analytics, Machine Learning and Quantitative Finance. 
+I am learning Data Analytics, Machine Learning and Quantitative Finance. 
 
 <!--
 **yogesh-dandekar/yogesh-dandekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
